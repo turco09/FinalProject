@@ -9,4 +9,6 @@ public class Alumno implements Serializable {
     
     @Id
     private String id;
+    
+    private String name;
 }
